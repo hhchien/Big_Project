@@ -17,7 +17,7 @@ Each line is the value of N choose K where N is the first number and K is the se
 Bai2.c:
 Read data from file "bag.inp" and print to screen
 In bag.int:
-Fisrt line include two integers: first for number of objects and second for max weight the bag cna carry
+Fisrt line include two integers: first for number of objects and second for max weight the bag can carry
 After that there is one line for each object include weight, value and name
 In the screen:
 Fisrt line for max value the bag can carry
